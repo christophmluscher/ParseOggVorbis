@@ -3,7 +3,7 @@
 //  ParseOggVorbis
 //
 //  Created by Albert Zeyer on 05.02.19.
-//  Copyright © 2019 Albert Zeyer. All rights reserved.
+//  Copyright (c) 2019 Albert Zeyer. All rights reserved.
 //
 
 #include <string.h>

@@ -3,7 +3,7 @@
 //  ParseOggVorbis
 //
 //  Created by Albert Zeyer on 18.01.19.
-//  Copyright © 2019 Albert Zeyer. All rights reserved.
+//  Copyright (c) 2019 Albert Zeyer. All rights reserved.
 //
 
 #ifndef inverse_db_table_h
